@@ -1,0 +1,44 @@
+* {
+    margin: 0px;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+.bg {
+    background-image: url("images/background.png");
+    background-size: cover;
+    /* opacity: 0.1; */
+    background-attachment: fixed;
+    color: white;
+}
+/* .bgImage {
+    opacity: 0.1;
+} */
+.header {
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    font-size: larger;
+    font-size: 35px;
+}
+.restructure {
+    height: 400px;
+    width: auto;
+    margin: auto;
+}
+.mar {
+    margin: 50px;
+    /* background-color: white;
+    color: black;
+    border-radius: 5%; */
+}
+
+/* video {
+    height: 100px;
+    width: auto;
+} */
+.resize {
+    height: 300px;
+    width: auto;
+}
